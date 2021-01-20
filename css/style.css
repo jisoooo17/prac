@@ -25,6 +25,7 @@ input, a, button {
 #wrap {
   width: 100%;
   height: 100vh;
-  background: orange; }
+  background: orange;
+  color: #fff; }
 
 /*# sourceMappingURL=style.css.map */
